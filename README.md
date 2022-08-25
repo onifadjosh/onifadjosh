@@ -1,16 +1,19 @@
 ### Hi there 👋
+🧑 PERSONA
+   I am OJ (Onifade Joshua), a Frontend Engineer.
 
-<!--
-**onifadjosh/onifadjosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   Pronoun  : He/Him/His
+   Nationality   : Nigeria
+   Physique    : “Don’t forget you are what you eat,” said one person. “Then I should eat a skinny person.” said my sister.
+   
+   
+- 🔭 I’m currently designing a law firm landing page using Tailwindcss 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on open source projects, startups webpages and their browser compatibility
+
+- 🤔 I’m looking for help with React
+
+- 💬 Ask me about anything web development... Always ready to help!!!
+
