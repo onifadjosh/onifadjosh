@@ -17,6 +17,8 @@ I'm a frontend developer, specializing in creating websites with React JS. From 
 src="https://img.shields.io/twitter/follow/onifadjosh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
+![Recently Played Music](https://spotify-recently-played-readme.vercel.app/api?user=31nrxq2h2ape2pcald5e5hheohyy&count={count})
+
 ### Skills
 
 
