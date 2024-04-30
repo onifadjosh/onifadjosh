@@ -8,7 +8,7 @@ I'm a frontend developer, specializing in creating websites with React JS. From 
 
 * 🌍  I'm based in Lagos, NGA
 * ✉️  You can contact me at [onifadjosh@gmail.com](mailto:onifadjosh@gmail.com)
-* 🚀  I'm currently working on [A FinTech application that allows users to borrow and lend individually or as an organization.](http://e-lendly.com/)
+* 🚀  I'm currently working on [A FinTech application that allow users to borrow and lend individually or as an organization.](http://e-lendly.com/)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Projects that solve problems!!
 * ⚡  I have superpowers when I use clippers
